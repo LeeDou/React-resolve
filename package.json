@@ -1,0 +1,30 @@
+{
+  "name": "resolve",
+  "version": "1.0.0",
+  "description": "react做的简易项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeDou/React-resolve.git"
+  },
+  "author": "kantle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeDou/React-resolve/issues"
+  },
+  "homepage": "https://github.com/LeeDou/React-resolve#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-react": "^3.1.0",
+    "lodash": "^4.17.4",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "reactify": "^1.1.1"
+  }
+}
